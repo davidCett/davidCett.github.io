@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davidcettolo.com/sitemap.xml
